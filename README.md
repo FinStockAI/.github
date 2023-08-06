@@ -1,0 +1,2 @@
+# .github
+InvestInsightAI  .github metarepository
