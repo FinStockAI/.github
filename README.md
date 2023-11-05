@@ -1,2 +1,2 @@
 # .github
-InvestInsightAI  .github metarepository
+FinStock.AI  .github metarepository
